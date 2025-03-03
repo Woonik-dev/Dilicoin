@@ -1,2 +1,1 @@
-# dilicoin
-Post Quantum Blockchain
+Let's go Post Quantum.
